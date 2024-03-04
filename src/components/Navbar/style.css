@@ -1,0 +1,49 @@
+/* Navbar */
+.navbar {
+  /* Reduce thickness of focus shadow */
+  --bs-navbar-toggler-focus-width: 0.1rem;
+  padding-bottom: 0px;
+}
+
+.navbar a {
+  color: white;
+}
+
+.navbar a:hover, .navbar a:focus, .navbar a:active {
+  color: lightgray;
+}
+
+.navbar-container {
+  border-bottom: 1px solid var(--faded-grey);
+}
+
+#navbarNavAltMarkup {
+  /* Position nav links at end of row */
+  justify-content: end;
+}
+
+.navbar-nav {
+  /* Center align dropdown along single row */
+  text-align: center;
+  flex-direction: row;
+  justify-content: center;
+  /* Add horizontal padding to desktop menu */
+  gap: 2em;
+  /* Reduce vertical padding on mobile menu */
+  --bs-nav-link-padding-y: 0rem!important;
+}
+
+.navbar-collapse {
+  /* Add padding to top on mobile menu list */
+  padding-top: 1rem;
+}
+
+.navbar-toggler {
+  /* Make toggle icon border white*/
+  border: var(--bs-border-width) solid white!important;
+}
+
+.navbar-toggler-icon {
+  /* Replace default bootstrap icon with white version*/
+  background-image: url("./src/assets/burger-icon.svg")!important
+}

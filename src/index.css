@@ -11,7 +11,7 @@
 }
 
 body {
-  background-color: var(--primary); 
+  background-color: var(--primary)!important; 
   color: white;
   font-family: 'Sen', sans-serif;
 }

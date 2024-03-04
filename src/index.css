@@ -1,6 +1,6 @@
 /* General */
 * {
-  box-sizing: border-box;
+  box-sizing: border-box!important;
 }
 
 :root {
@@ -12,6 +12,47 @@
 
 body {
   background-color: var(--primary)!important; 
-  color: white;
-  font-family: 'Sen', sans-serif;
+  color: white!important;
+  font-family: 'Sen', sans-serif!important;
+}
+
+.faded-shadow {
+  box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 16px!important;
+}
+
+.btn {
+  border: 1px solid var(--faded-grey)!important;
+  border-radius: 100px!important;
+  background-color: var(--primary-t)!important;
+  font-size: 0.8em!important;
+  letter-spacing: 0.05em!important;
+  text-transform: uppercase!important;
+  padding: 10px 40px!important;
+  transition: all .05s ease-in-out,
+      background-color .05s ease-in-out,
+      border-color .05s ease-in-out,
+      box-shadow .05s ease-in-out;
+}
+
+.btn:hover {
+  background-color: var(--faded-grey)!important;
+  border: 1px solid grey!important;
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px!important;
+}
+
+.btn-check:checked+.btn, .btn.active, .btn.show, .btn:first-child:active, :not(.btn-check)+.btn:active {
+  background-color: var(--primary-t)!important;
+  border: 1px solid grey!important;
+}
+
+section {
+  padding-top: 100px;
+}
+
+section > .container {
+  border: 1px solid var(--faded-grey);
+}
+
+a {
+  scroll-behavior: smooth;
 }

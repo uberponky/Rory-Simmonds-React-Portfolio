@@ -5,12 +5,14 @@
   padding-bottom: 0px;
 }
 
-.navbar a {
-  color: white;
+.navbar .nav-link, .navbar a {
+  /* Remove underline from links */
+  color: white!important;
+  text-decoration: none!important;
 }
 
 .navbar a:hover, .navbar a:focus, .navbar a:active {
-  color: lightgray;
+  color: lightgray!important;
 }
 
 .navbar-container {
@@ -28,15 +30,11 @@
   flex-direction: row;
   justify-content: center;
   /* Add horizontal padding to desktop menu */
-  gap: 2em;
+  gap: 1.5rem;
   /* Reduce vertical padding on mobile menu */
   --bs-nav-link-padding-y: 0rem!important;
 }
 
-.navbar-collapse {
-  /* Add padding to top on mobile menu list */
-  padding-top: 1rem;
-}
 
 .navbar-toggler {
   /* Make toggle icon border white*/

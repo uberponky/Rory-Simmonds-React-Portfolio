@@ -1,0 +1,32 @@
+/* About */
+
+.jumbotron > .container {
+  background: radial-gradient(at bottom right,rgba(255, 212, 195, 0.2) 0%, var(--primary-t) 51%);
+}
+
+.headshot img{
+  border-radius: 100%;
+}
+
+a {
+  color: white!important;
+  text-decoration: none!important;
+}
+
+a:hover, a:focus, a:active {
+  color: lightgray!important;
+}
+
+/* Contact */
+#contact > .container {
+  background: radial-gradient(at top right,rgba(251, 255, 198, 0.2) 0%, var(--primary-t) 51%);
+}
+
+#contact a {
+  color: white;
+  text-decoration: none;
+}
+
+#contact a:hover, #contact a:focus, #contact a:active {
+  color: lightgray;
+}

@@ -9,11 +9,11 @@ function About() {
           <div className="col-lg-8 my-auto text-center text-lg-start">
             <p className="display-5 fw-bold">Learning to build amazing things on the web, one div at a time.</p>
             <p className="col-lg-10 fs-5">Keep reading for my portfolio, about me, and my contact details.</p>
-            <a className="btn btn-primary btn-lg" type="button" href="#contact">Get in touch</a>
+            <a className="btn btn-primary btn-lg" type="button" href="/contact">Get in touch</a>
           </div>
           <div className="col-6 col-lg-4 pb-3 pb-lg-0 headshot m-auto ">
             <img 
-              src="./src/assets/rory-bio-picture.jpg" 
+              src="https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/rory-bio-picture.jpg?raw=true" 
               className="img-fluid faded-shadow"
               alt="MY headshot, wearing a blue jumper"
               >

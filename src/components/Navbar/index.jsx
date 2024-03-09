@@ -7,19 +7,9 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-sm">
       <div className="container navbar-container pt-2 pb-3">
-        {/* <a className="navbar-brand d-flex align-items-center" href="#">
-          <img 
-            src="./src/assets/BB.svg" 
-            alt="Blank Box Logo" 
-            width="30" 
-            height="30" 
-            className="d-inline-block align-text-top text-white pe-2"
-          ></img>
-          Rory Simmonds
-        </a> */}
         <Link className="navbar-brand d-flex align-items-center" to="/">
           <img 
-            src="./src/assets/BB.svg" 
+            src="https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/BB.svg?raw=true" 
             alt="Blank Box Logo" 
             width="30" 
             height="30" 

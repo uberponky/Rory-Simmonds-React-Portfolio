@@ -3,7 +3,7 @@
     "_id": "1",
     "title": "Food Finder",
     "description": "A simple web application to find restaurant recommendations",
-    "img": "./src/assets/food-finder.png",
+    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/food-finder.png?raw=true",
     "deployedURL": "https://github.com/uberponky/Food-Finder",
     "githubURL": "https://github.com/uberponky/Food-Finder"
   },
@@ -11,7 +11,7 @@
     "_id": "2",
     "title": "Find My Forecast",
     "description": "A web application to find the weather forecast for a chosen city",
-    "img": "./src/assets/find-my-forecast.png",
+    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/find-my-forecast.png?raw=true",
     "deployedURL": "https://uberponky.github.io/Find-My-Forecast/",
     "githubURL": "https://github.com/uberponky/Find-My-Forecast"
   },
@@ -19,7 +19,7 @@
     "_id": "3",
     "title": "Javascript Fundamentals Quiz",
     "description": "A quiz to test your knowledge of the Javascript fundamentals",
-    "img": "./src/assets/fundamentals-quiz.png",
+    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/fundamentals-quiz.png?raw=true",
     "deployedURL": "https://uberponky.github.io/rorys-javascript-fundamentals-quiz/",
     "githubURL": "https://github.com/uberponky/rorys-javascript-fundamentals-quiz"
   },
@@ -27,7 +27,7 @@
     "_id": "4",
     "title": "Secure Password Generator",
     "description": "A simple tool to generate a secure password in your browser",
-    "img": "./src/assets/password-generator.png",
+    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/password-generator.png?raw=true",
     "deployedURL": "https://uberponky.github.io/Rorys-Secure-Password-Generator/",
     "githubURL": "https://github.com/uberponky/Rorys-Secure-Password-Generator"
   },
@@ -35,7 +35,7 @@
     "_id": "5",
     "title": "Bootstrap Portfolio",
     "description": "My portfolio designed using Bootstrap, CSS and HTML",
-    "img": "./src/assets/bootstrap-portfolio.png",
+    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/bootstrap-portfolio.png?raw=true",
     "deployedURL": "https://uberponky.github.io/rory-simmonds-bootstrap-portfolio/",
     "githubURL": "https://github.com/uberponky/rory-simmonds-bootstrap-portfolio"
   },
@@ -43,7 +43,7 @@
     "_id": "6",
     "title": "TeamGen",
     "description": "A command-line application to generate a webpage for a software team",
-    "img": "./src/assets/teamgen.png",
+    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/teamgen.png?raw=true",
     "deployedURL": "",
     "githubURL": "https://github.com/uberponky/TeamGen"
   }

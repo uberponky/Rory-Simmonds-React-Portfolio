@@ -14,7 +14,7 @@ function About() {
           <div className="col-6 col-lg-4 pb-3 pb-lg-0 headshot m-auto ">
             <img 
               src="./src/assets/rory-bio-picture.jpg" 
-              class="img-fluid faded-shadow"
+              className="img-fluid faded-shadow"
               alt="MY headshot, wearing a blue jumper"
               >
             </img>

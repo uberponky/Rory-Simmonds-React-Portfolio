@@ -16,6 +16,11 @@ body {
   font-family: 'Sen', sans-serif!important;
 }
 
+p, h1, h2, h3, h4, h5, h6, span {
+  color: white!important;
+  font-family: 'Sen', sans-serif!important;
+}
+
 .faded-shadow {
   box-shadow: rgba(0, 0, 0, 0.5) 2px 2px 16px!important;
 }
@@ -27,7 +32,7 @@ body {
   font-size: 0.8em!important;
   letter-spacing: 0.05em!important;
   text-transform: uppercase!important;
-  padding: 10px 40px!important;
+  padding: 1rem 2rem!important;
   transition: all .05s ease-in-out,
       background-color .05s ease-in-out,
       border-color .05s ease-in-out,
@@ -45,11 +50,15 @@ body {
   border: 1px solid grey!important;
 }
 
+.project-btn {
+  padding: 0.7em 1.2rem!important;
+}
+
 section {
   padding-top: 100px;
 }
 
-section > .container {
+section > .container, section .card {
   border: 1px solid var(--faded-grey);
 }
 

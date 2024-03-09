@@ -30,3 +30,15 @@ a:hover, a:focus, a:active {
 #contact a:hover, #contact a:focus, #contact a:active {
   color: lightgray;
 }
+
+
+
+/* Project Cards */
+#projects .card {
+  background: radial-gradient(at top right,rgba(251, 255, 198, 0.2) 0%, var(--primary-t) 51%);
+}
+
+.card-img-top{
+  object-fit: cover; 
+  height: 10rem;
+}

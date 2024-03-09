@@ -8,9 +8,9 @@ function Footer() {
         <p className="col-md-5 mb-0">© 2023 Blank Box Ltd</p>
         <a className="btn btn-primary btn-lg" type="button" href="https://github.com/uberponky/" rel="noopener noreferrer">My GitHub</a>
         <ul className="nav col-md-5 justify-content-end">
-          <li className="nav-item"><a href="#portfolio" class="nav-link px-2">Portfolio</a></li>
-          <li className="nav-item"><a href="#skills" class="nav-link px-2">Skills</a></li>
-          <li className="nav-item"><a href="#contact" class="nav-link px-2">Contact</a></li>
+          <li className="nav-item"><a href="#portfolio" className="nav-link px-2">Portfolio</a></li>
+          <li className="nav-item"><a href="#skills" className="nav-link px-2">Skills</a></li>
+          <li className="nav-item"><a href="#contact" className="nav-link px-2">Contact</a></li>
         </ul>
       </footer>
     </section>

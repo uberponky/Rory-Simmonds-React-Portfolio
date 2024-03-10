@@ -8,11 +8,9 @@ function Contact() {
           <div className="row flex-lg-row flex-column-reverse">
             <div className="d-flex flex-column align-items-center col-6 col-lg-4 headshot m-auto">
               <i className="fa-solid fa-envelope mb-4 fa-lg"></i>
-              <a href="https://blankbox.business/">blankbox.business</a>
-              <i className="fa-solid fa-globe mt-4 mb-3 fa-lg"></i>
               <a href="mailto:rory@blankbox.business">rory@blankbox.business</a>
-              <i className="fa-solid fa-phone mt-4 mb-3 fa-lg"></i>
-              <a href="tel:07739 519 483">07739 519 483</a>
+              <i class="fa-brands fa-linkedin-in mt-4 mb-3 fa-lg"></i>
+              <a href="https://www.linkedin.com/in/rory-simmonds-36369678/">My LinkedIn</a>
               <i className="fa-solid fa-file-pdf mt-4 mb-3 fa-lg"></i>
               <a href="https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/Rory_Simmonds_CV.pdf?raw=true" target="_blank" rel="noopener noreferrer">Download My CV</a>
             </div>

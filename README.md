@@ -12,7 +12,7 @@ Features include:
 
 ## Links
 
-[Link to the deployed site](https://65ecef1a07d3d4000825f274--elegant-pegasus-edaa1e.netlify.app/)
+[Link to the deployed site](https://elegant-pegasus-edaa1e.netlify.app/)
 
 [Link to the GitHub repository](https://github.com/uberponky/Rory-Simmonds-React-Portfolio)
 

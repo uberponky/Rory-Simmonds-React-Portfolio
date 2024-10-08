@@ -23,6 +23,15 @@ function Navbar() {
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
             <NavLink
+                to="/"
+                end
+                className={({ isActive }) =>
+                  isActive ? 'nav-link active' : 'nav-link'
+                }
+              >
+                Projects
+              </NavLink>
+            <NavLink
                 to="/about"
                 end
                 className={({ isActive }) =>
@@ -30,15 +39,6 @@ function Navbar() {
                 }
               >
                 About
-              </NavLink>
-              <NavLink
-                to="/projects"
-                end
-                className={({ isActive }) =>
-                  isActive ? 'nav-link active' : 'nav-link'
-                }
-              >
-                Projects
               </NavLink>
               <NavLink
                 to="/contact"

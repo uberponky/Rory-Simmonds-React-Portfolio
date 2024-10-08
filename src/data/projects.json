@@ -11,22 +11,22 @@
     "_id": "2",
     "title": "Optimi Triage",
     "description": "An onboarding form for the Optimi Triage App. Built in React.",
-    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/Optimi-Health.jpg",
+    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/Optimi-Health.jpg?raw=true",
     "deployedURL": "https://uberponky.github.io/Optimi-Triage-Onboarding/",
     "githubURL": "https://github.com/uberponky/Optimi-Triage-Onboarding"
   },
   {
     "_id": "3",
     "title": "A14 Time Critical",
-    "description": "A website for a Courier. Built in Wordpress.",
-    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/A14-Time-Critical.jpg",
+    "description": "A responsive brochure Website for a Courier. Built in Wordpress.",
+    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/A14-Time-Critical.jpg?raw=true",
     "deployedURL": "https://a14timecritical.com/"
   },
   {
     "_id": "4",
     "title": "FullScape",
-    "description": "Website and Branding for a Landscaper. Built in Wordpress",
-    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/Fullscape.jpg",
+    "description": "A responsive brochure Website for a Landscaper. Built in Wordpress",
+    "img": "https://github.com/uberponky/Rory-Simmonds-React-Portfolio/blob/main/src/assets/Fullscape.jpg?raw=true",
     "deployedURL": "https://fullscape.co.uk/",
   },
   {

@@ -11,7 +11,7 @@ function Card({ title, description, img, deployedURL, githubURL }) {
           <p className="card-text">{ description }</p>
           <div className="d-flex flex-row gap-2 flex-wrap justify-content-center">
             { deployedURL ? <a href={ deployedURL } className="btn project-btn">Deployed Site</a> : '' }
-            <a href={ githubURL } className="btn project-btn">GitHub Repo</a>
+            { githubURL ? <a href={ githubURL } className="btn project-btn">GitHub Repo</a> : '' }
           </div>
         </div>
       </div>

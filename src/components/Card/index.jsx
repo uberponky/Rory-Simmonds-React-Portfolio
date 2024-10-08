@@ -1,7 +1,7 @@
 import React from 'react'
 import './style.css'
 
-function Card({ title, description, img, deployedURL, githubURL }) {
+function Card({ title, description, img, deployedURL, githubURL, sitePreview }) {
   return (
     <div className="col-12 col-md-4 my-2 rounded-5">
       <div className="card p-0 text-center">
